@@ -1,0 +1,17 @@
+{
+    "janitor": {
+        "salary": 3000,
+        "experience": 10,
+        "display": "Janitor"
+    },
+    "software engineer": {
+        "salary": 11400,
+        "experience": 30,
+        "display": "Software Engineer"
+    },
+    "ceo of bank": {
+        "salary": 170000,
+        "experience": 100,
+        "display": "CEO of a bank"
+    }
+}
